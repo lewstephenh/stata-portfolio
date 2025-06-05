@@ -101,6 +101,13 @@ erase ela.dta
 
 
 * -----------------------------------------------------------------------------
+* Summary statistics
+* -----------------------------------------------------------------------------
+summarize math ela sed totalenrollment
+
+
+
+* -----------------------------------------------------------------------------
 * Linear regression analyses of percent of students who are socioeconomically
 * disadvantaged on distance from standard on math and ELA among high schools. Total
 * enrollment is used as the analytic weight.
