@@ -13,5 +13,5 @@ This program reads data used in the California School Dashboard and performs lin
 To execute the Stata program, follow these steps:
 1. Open Stata.
 2. Load the script `regression_analysis.do`.
-3. Edit line 10 and line 119 so that the data is saved to the desired location.
+3. Edit line 10 and line 126 so that the data is saved to the desired location.
 4. Run the script.
